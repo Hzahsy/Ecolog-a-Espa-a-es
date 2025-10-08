@@ -21,13 +21,13 @@ const Header = () => {
   ];
 
   return (
-    <header className="bg-background py-4 border-b border-border sticky top-0 z-50">
+    <header className="bg-background py-2 border-b border-border sticky top-0 z-50">
       <div className="container px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <img
             src="/imgs/logo Ecología España rb.png"
             alt="Logo Ecología España"
-            className="h-12 w-auto cursor-pointer"
+            className="h-28 w-auto max-w-xs cursor-pointer"
             onClick={() => scrollToSection("hero")}
           />
 

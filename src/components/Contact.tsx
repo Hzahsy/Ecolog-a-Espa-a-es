@@ -154,7 +154,7 @@ const Contact = () => {
               </h3>
               <div className="space-y-5">
                 <a
-                  href="tel:+34900123456"
+                  href="tel:+34674939643"
                   className="flex items-start gap-4 p-4 rounded-lg hover:bg-primary/5 transition-all duration-300 group"
                 >
                   <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0 group-hover:bg-primary transition-all duration-300">
@@ -165,30 +165,10 @@ const Contact = () => {
                       Llámanos Ahora
                     </div>
                     <div className="text-primary text-lg font-bold">
-                      +34 900 123 456
+                      +34 674 93 96 43
                     </div>
                     <div className="text-xs text-muted-foreground">
                       Atención inmediata
-                    </div>
-                  </div>
-                </a>
-
-                <a
-                  href="mailto:info@aislamiento.es"
-                  className="flex items-start gap-4 p-4 rounded-lg hover:bg-primary/5 transition-all duration-300 group"
-                >
-                  <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0 group-hover:bg-primary transition-all duration-300">
-                    <Mail className="w-6 h-6 text-primary group-hover:text-primary-foreground transition-colors duration-300" />
-                  </div>
-                  <div>
-                    <div className="font-semibold text-foreground mb-1">
-                      Escríbenos
-                    </div>
-                    <div className="text-primary font-medium">
-                      info@aislamiento.es
-                    </div>
-                    <div className="text-xs text-muted-foreground">
-                      Respuesta en 2h
                     </div>
                   </div>
                 </a>

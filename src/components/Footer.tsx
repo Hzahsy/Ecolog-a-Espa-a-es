@@ -25,8 +25,7 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contacto</h4>
             <ul className="space-y-2 text-background/80">
-              <li>+34 900 123 456</li>
-              <li>info@aislamiento.es</li>
+              <li>+34 674 93 96 43</li>
               <li>Madrid, España</li>
             </ul>
           </div>
