@@ -62,7 +62,20 @@ This project is built with:
 
 ## How can I deploy this project?
 
+### Lovable Deployment
+
 Simply open [Lovable](https://lovable.dev/projects/c8efeeae-be87-4da3-a300-ef14d76d478e) and click on Share -> Publish.
+
+### Replit Deployment
+
+To deploy on Replit:
+
+1. Import this repository into Replit.
+2. Replit will automatically detect it as a Node.js project.
+3. The `start` script will build the frontend and start the server.
+4. Your app will be available at the Replit URL.
+
+For development on Replit, use `npm run dev` to run both frontend and backend.
 
 ## Can I connect a custom domain to my Lovable project?
 
