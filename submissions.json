@@ -1,0 +1,27 @@
+[
+  {
+    "casaUnifamiliar": "atico",
+    "desvan": "si",
+    "tipoDesvan": "no-habitable",
+    "acceso": "trampilla",
+    "calefaccion": "gasoleo",
+    "direccion": "hay badrioun charkika gzenaya",
+    "poblacion": "tanger",
+    "cp": "90000",
+    "nombreTitular": "Elmessline",
+    "timestamp": "2025-10-08T14:03:31.051Z"
+  },
+  {
+    "casaUnifamiliar": "atico",
+    "desvan": "si",
+    "tipoDesvan": "trastero",
+    "acceso": "exterior",
+    "calefaccion": "electrica",
+    "direccion": "TRANGER EL WAHDA",
+    "poblacion": "Casablanca",
+    "cp": "90000",
+    "nombreTitular": "Elfilali Hamza",
+    "phone": "+212776628986",
+    "timestamp": "2025-10-08T14:44:28.689Z"
+  }
+]
